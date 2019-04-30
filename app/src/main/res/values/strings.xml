@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="title_activity_notes_list">NotesList</string>
+    <string name="note_time">Time</string>
+    <string name="note_title">Note title</string>
+    <string name="remove_note">remove_note</string>
+    <string name="edit_note">edit_note</string>
+    <string name="note_title_hint">Note title</string>
+    <string name="note_description_hint">Note description</string>
+    <string name="btn_store">STORE</string>
+    <string name="btn_cancel">CANCEL</string>
+</resources>
